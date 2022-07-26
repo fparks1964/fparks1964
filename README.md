@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fparks1964
-- 👀 I’m interested in ...Django
-- 🌱 I’m currently learning ...Django
+- 👀 I’m interested in ...Coding
+- 🌱 I’m currently learning ...Misc. SAML, SSO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...fparks1964@gmail.com
 
